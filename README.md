@@ -10,6 +10,9 @@ I am a freelance developer from Brisbane, Australia. I'm fluent in Lua, HTML, CS
 <img src="https://img.shields.io/discord/1112524852935544834?style=for-the-badge&logo=discord&labelColor=5865F2&logoColor=white&color=2c2f33&label=Discord"/>
 </a></p>
 
+## Languages
+[![wakatime](https://wakatime.com/badge/user/018c590e-972a-4f9d-bbc0-f77a1b8e8227.svg?style=for-the-badge)](https://wakatime.com/@unitysync)
+
 <!--
 **unitysync/unitysync** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
