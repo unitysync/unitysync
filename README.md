@@ -1,13 +1,13 @@
 # Hi i'm Sync 👋
 
 ## A little bit about me
-I am a freelance developer from Brisbane, Australia. I'm fluent in Lua, HTML, CSS, and currently learning JS. I make FiveM scripts, so if you need something done then contact me through my [discord server](https://discord.gg/UsGzwFcDkT).
+I am a freelance developer from Brisbane, Australia. I'm fluent in Lua, HTML, CSS, TypeScript, and JavaScript. I make FiveM scripts, so if you need something done then contact me through discord (@zensync)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/265742868587479050)](https://discord.com/users/265742868587479050)
 ![unitysync's GitHub stats](https://github-readme-stats.vercel.app/api?username=unitysync&show_icons=true&theme=ambient_gradient)
 
 ## Socials
-<p><a href="https://discord.gg/UsGzwFcDkT">
+<p><a href="https://discord.com/users/265742868587479050">
 <img src="https://img.shields.io/discord/1112524852935544834?style=for-the-badge&logo=discord&labelColor=5865F2&logoColor=white&color=2c2f33&label=Discord"/>
 </a></p>
 
