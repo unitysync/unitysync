@@ -1,0 +1,30 @@
+name: Waka Readme
+
+on:
+  schedule:
+    # Runs every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOW_LOC_CHART: False
+          SHOW_UPDATED_DATE: False
+          COMMIT_MESSAGE: "Updated readme statistics"
+          COMMIT_BY_ME: True
+          LOCALE: "en"
+          SHOW_PROFILE_VIEWS: True
+          SHOW_LINES_OF_CODE: True
+          SHOW_TIMEZONE: True
+          SHOW_SHORT_INFO_HIRE: True
+          SHOW_SHORT_INFO_STORAGE: True
+          SHOW_SHORT_INFO_CONTRIBUTIONS: True
+          SHOW_SHORT_INFO_PUBLIC: True
+          SHOW_SHORT_INFO_PRIVATE: True
+          DEBUG_LOGGING: True
