@@ -27,6 +27,8 @@ I am a developer from Brisbane, Australia. I'm fluent in Lua, HTML, CSS, TypeScr
 
 > 📦 70.2 kB Used in GitHub's Storage 
  > 
+> 🏆 65 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 7 Public Repositories 
