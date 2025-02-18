@@ -17,17 +17,17 @@ I am a developer from Brisbane, Australia. I'm fluent in Lua, HTML, CSS, TypeScr
 [![wakatime](https://wakatime.com/badge/user/018c590e-972a-4f9d-bbc0-f77a1b8e8227.svg?style=for-the-badge)](https://wakatime.com/@unitysync)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-348%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-350%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-87-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-369.9%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-373.1%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 70.2 kB Used in GitHub's Storage 
  > 
-> 🏆 68 Contributions in the Year 2025
+> 🏆 70 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -38,21 +38,21 @@ I am a developer from Brisbane, Australia. I'm fluent in Lua, HTML, CSS, TypeScr
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-🌆 Daytime                85 commits          ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
-🌃 Evening                143 commits         ██████████░░░░░░░░░░░░░░░   41.81 % 
-🌙 Night                  100 commits         ███████░░░░░░░░░░░░░░░░░░   29.24 % 
+🌞 Morning                15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+🌆 Daytime                86 commits          ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+🌃 Evening                143 commits         ██████████░░░░░░░░░░░░░░░   41.57 % 
+🌙 Night                  100 commits         ███████░░░░░░░░░░░░░░░░░░   29.07 % 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   64 commits          █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
-Tuesday                  64 commits          █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
-Wednesday                53 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-Thursday                 43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Friday                   60 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-Saturday                 31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-Sunday                   27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Monday                   64 commits          █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+Tuesday                  66 commits          █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
+Wednesday                53 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+Thursday                 43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Friday                   60 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+Saturday                 31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+Sunday                   27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
 ```
 
 
