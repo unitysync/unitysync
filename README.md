@@ -17,9 +17,9 @@ I am a developer from Brisbane, Australia. I'm fluent in Lua, HTML, CSS, TypeScr
 [![wakatime](https://wakatime.com/badge/user/018c590e-972a-4f9d-bbc0-f77a1b8e8227.svg?style=for-the-badge)](https://wakatime.com/@unitysync)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-351%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-355%20hrs%2016%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-87-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-66-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-375.6%20thousand%20lines%20of%20code-blue)
 
