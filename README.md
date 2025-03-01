@@ -17,9 +17,9 @@ I am a developer from Brisbane, Australia. I'm fluent in Lua, HTML, CSS, TypeScr
 [![wakatime](https://wakatime.com/badge/user/018c590e-972a-4f9d-bbc0-f77a1b8e8227.svg?style=for-the-badge)](https://wakatime.com/@unitysync)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-365%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-366%20hrs%2056%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-378.0%20thousand%20lines%20of%20code-blue)
 
@@ -31,7 +31,7 @@ I am a developer from Brisbane, Australia. I'm fluent in Lua, HTML, CSS, TypeScr
  > 
 > 📜 10 Public Repositories 
  > 
-> 🔑 35 Private Repositories 
+> 🔑 36 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -81,11 +81,11 @@ Mac                      4 hrs 32 mins       ███████████�
 **I Mostly Code in Lua** 
 
 ```text
-Lua                      24 repos            ███████████░░░░░░░░░░░░░░   42.86 % 
-TypeScript               18 repos            ████████░░░░░░░░░░░░░░░░░   32.14 % 
-Vue                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Lua                      25 repos            ███████████░░░░░░░░░░░░░░   43.86 % 
+TypeScript               18 repos            ████████░░░░░░░░░░░░░░░░░   31.58 % 
+Vue                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 ```
 
 
