@@ -1,1 +1,1 @@
-![Metrics](https://github.com/unitysync/unitysync/blob/main/github-metrics.svg)
+![Metrics](/github-metrics.svg)
