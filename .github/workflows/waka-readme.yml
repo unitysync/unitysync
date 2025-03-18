@@ -48,7 +48,7 @@ jobs:
           plugin_introduction_title: yes
           plugin_lines: yes
           plugin_lines_history_limit: 20
-          plugin_lines_repositories_limit: 4
+          plugin_lines_repositories_limit: 200
           plugin_lines_sections: base
           plugin_steam: yes
           plugin_steam_achievements_limit: 2
