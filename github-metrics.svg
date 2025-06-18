@@ -107,7 +107,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            15 issue comments
+                            16 issue comments
                         </div>
                     </section>
                     <section>
@@ -257,6 +257,29 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
+                                        <span class="issue">#25 Use @nativewrappers/fivem instead of @nativewrappers/client</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by Laica-Lunasys in <span class="repo">CommunityOx/ox_lib</span></div>
+                                    <div class="comment">
+                                        As I recall these are not exactly the same class, and the one in
+                                        <code>@nativewrappers/fivem</code>
+                                        has a huge comment at the top that says "DO NOT USE" and that the type is not guaranteed to exist.
+https://github.com/nativewrappers/nativewrappers/blob/5b06cd84a36d880edf8a2ff64318a6466626239e/src/common/utils/Vector.ts#L650-L651
+I don't have the time to test this, but I doubt changing the nativewrappers package is worth any potential breaking changes with it.
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
                                         <span class="issue">#24 Delete all of ox_lib's file and use qs-lib</span>
                                     </div>
                                 </div>
@@ -320,29 +343,6 @@
                                         I think this would probably be a better idea to have something like
                                         <code>[bun | npm | pnpm] install</code>
                                         in the docs or something along those lines. At the end of the day, the package manager really doesn't matter (the built files are the same), so it would be better to say something like "use your package manager of choice" etc.
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#29 feat(inventory): add functions to retrieve metadata by slot and items</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Lester-Leal in <span class="repo">CommunityOx/ox_inventory</span></div>
-                                    <div class="comment">
-                                        This is pretty much
-                                        <code>Search</code>
-                                        and
-                                        <code>GetSlot</code>
-                                        with extra steps. Looks like an LLM made this (and an outdated one at that). Don't PR anything involve AI slop please.
                                     </div>
                                 </div>
                             </section>
@@ -436,7 +436,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Jun 2025, 05:19:10 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Jun 2025, 06:27:42 (timezone Australia/Brisbane) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
